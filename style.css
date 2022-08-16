@@ -98,7 +98,8 @@ h1 {
     color: rgb(116, 108, 113);
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-    
+    font-weight: 100%;
+    text-shadow: 2px 2px 0px rgb(241, 225, 231);   
 }
 
 
